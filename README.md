@@ -34,6 +34,9 @@ Before updating your system , please remove all Kali-linux repositories to avoid
 
 Please visit https://github.com/LionSec/katoolin/issues
 
+
+http://www.tecmint.com/install-kali-linux-tools-using-katoolin-on-ubuntu-debian/
+
 # Donations
 - Paypal : https://www.paypal.me/lionsec
 - skrill : informatica98es@gmail.com
